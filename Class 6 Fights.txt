@@ -1,0 +1,773 @@
+Closest center to row : 
+[699.7088204522353, 6]
+Blue Corner: Elias Silverio	 Red Corner: Isaac Vallie-Flagg			 Winner: blue
+
+
+Closest center to row : 
+[1184.400280357389, 6]
+Blue Corner: Mike Easton	 Red Corner: TJ Dillashaw			 Winner: red
+
+
+Closest center to row : 
+[886.0789521688359, 6]
+Blue Corner: Louis Smolka	 Red Corner: Alptekin Ozkilic			 Winner: blue
+
+
+Closest center to row : 
+[535.3012446248545, 6]
+Blue Corner: Khabib Nurmagomedov	 Red Corner: Rafael dos Anjos			 Winner: blue
+
+
+Closest center to row : 
+[862.0895491353616, 6]
+Blue Corner: Yoel Romero	 Red Corner: Brad Tavares			 Winner: blue
+
+
+Closest center to row : 
+[938.4286797780455, 6]
+Blue Corner: Ray Borg	 Red Corner: Dustin Ortiz			 Winner: red
+
+
+Closest center to row : 
+[1684.061447681307, 6]
+Blue Corner: Scott Jorgensen	 Red Corner: Jussier Formiga			 Winner: red
+
+
+Closest center to row : 
+[769.1383244690154, 6]
+Blue Corner: Dan Henderson	 Red Corner: Daniel Cormier			 Winner: red
+
+
+Closest center to row : 
+[1113.186559340749, 6]
+Blue Corner: Roy Nelson	 Red Corner: Minotauro Nogueira			 Winner: blue
+
+
+Closest center to row : 
+[676.9908527768937, 6]
+Blue Corner: John Moraga	 Red Corner: John Dodson			 Winner: red
+
+
+Closest center to row : 
+[1148.2482045090424, 6]
+Blue Corner: Nico Musoke	 Red Corner: Kelvin Gastelum			 Winner: red
+
+
+Closest center to row : 
+[671.0307588909897, 6]
+Blue Corner: Kevin Lee	 Red Corner: Jesse Ronson			 Winner: blue
+
+
+Closest center to row : 
+[839.3667511062972, 6]
+Blue Corner: Drew Dober	 Red Corner: Nick Hein			 Winner: red
+
+
+Closest center to row : 
+[1039.944137275081, 6]
+Blue Corner: Rodrigo de Lima	 Red Corner: Neil Magny			 Winner: red
+
+
+Closest center to row : 
+[666.520676751538, 6]
+Blue Corner: Mike King	 Red Corner: Cathal Pendred			 Winner: red
+
+
+Closest center to row : 
+[896.5506741373132, 6]
+Blue Corner: Alptekin Ozkilic	 Red Corner: John Lineker			 Winner: red
+
+
+Closest center to row : 
+[961.7476457633268, 6]
+Blue Corner: Alex White	 Red Corner: Lucas Martins			 Winner: red
+
+
+Closest center to row : 
+[594.3302408695636, 6]
+Blue Corner: Derek Brunson	 Red Corner: Lorenz Larkin			 Winner: blue
+
+
+Closest center to row : 
+[682.2060817737674, 6]
+Blue Corner: Tim Means	 Red Corner: Hernani Perpetuo			 Winner: blue
+
+
+Closest center to row : 
+[573.2226595513307, 6]
+Blue Corner: Zach Makovsky	 Red Corner: Jussier Formiga			 Winner: red
+
+
+Closest center to row : 
+[1487.2723077903272, 6]
+Blue Corner: Rodrigo Damm	 Red Corner: Al Iaquinta			 Winner: red
+
+
+Closest center to row : 
+[687.7694129191652, 6]
+Blue Corner: Takeya Mizugaki	 Red Corner: Dominick Cruz			 Winner: red
+
+
+Closest center to row : 
+[574.8115836637521, 6]
+Blue Corner: Efrain Escudero	 Red Corner: Leonardo Santos			 Winner: red
+
+
+Closest center to row : 
+[843.4932956089975, 6]
+Blue Corner: Christos Giagos	 Red Corner: Gilbert Burns			 Winner: red
+
+
+Closest center to row : 
+[658.8520675658862, 6]
+Blue Corner: Jake Lindsey	 Red Corner: Olivier Aubin-Mercier			 Winner: red
+
+
+Closest center to row : 
+[950.1083825564609, 6]
+Blue Corner: Kelvin Gastelum	 Red Corner: Jake Ellenberger			 Winner: blue
+
+
+Closest center to row : 
+[1214.259121153132, 6]
+Blue Corner: Leslie Smith	 Red Corner: Jessica Eye			 Winner: red
+
+
+Closest center to row : 
+[1501.173842954244, 6]
+Blue Corner: Ashlee Evans-Smith	 Red Corner: Raquel Pennington			 Winner: red
+
+
+Closest center to row : 
+[1036.7318202351112, 6]
+Blue Corner: Dustin Kimura	 Red Corner: Henry Cejudo			 Winner: red
+
+
+Closest center to row : 
+[923.8402620378001, 6]
+Blue Corner: Angela Hill	 Red Corner: Emily Peters Kagan			 Winner: blue
+
+
+Closest center to row : 
+[981.7527480145675, 6]
+Blue Corner: Gleison Tibau	 Red Corner: Norman Parke			 Winner: blue
+
+
+Closest center to row : 
+[1365.3104605033736, 6]
+Blue Corner: Frankie Perez	 Red Corner: Johnny Case			 Winner: red
+
+
+Closest center to row : 
+[878.4918272869546, 6]
+Blue Corner: Sara McMann	 Red Corner: Miesha Tate			 Winner: red
+
+
+Closest center to row : 
+[805.7121109424291, 6]
+Blue Corner: Josh Koscheck	 Red Corner: Jake Ellenberger			 Winner: red
+
+
+Closest center to row : 
+[774.4921777197169, 6]
+Blue Corner: Konstantin Erokhin	 Red Corner: Viktor Pesta			 Winner: red
+
+
+Closest center to row : 
+[736.1722103192734, 6]
+Blue Corner: Mitch Clarke	 Red Corner: Michael Chiesa			 Winner: red
+
+
+Closest center to row : 
+[548.4646176860792, 6]
+Blue Corner: Robert Peralta	 Red Corner: Clay Guida			 Winner: red
+
+
+Closest center to row : 
+[826.5047356773329, 6]
+Blue Corner: Jake Collier	 Red Corner: Vitor Miranda			 Winner: red
+
+
+Closest center to row : 
+[815.7037416445032, 6]
+Blue Corner: Neil Magny	 Red Corner: Hyun Gyu Lim			 Winner: blue
+
+
+Closest center to row : 
+[881.4511197177667, 6]
+Blue Corner: Thomas Almeida	 Red Corner: Brad Pickett			 Winner: blue
+
+
+Closest center to row : 
+[793.9578205236016, 6]
+Blue Corner: Dileno Lopes	 Red Corner: Reginaldo Vieira			 Winner: red
+
+
+Closest center to row : 
+[761.8939058448939, 6]
+Blue Corner: Paul Felder	 Red Corner: Edson Barboza			 Winner: red
+
+
+Closest center to row : 
+[1062.9803235498, 6]
+Blue Corner: Yoel Romero	 Red Corner: Lyoto Machida			 Winner: blue
+
+
+Closest center to row : 
+[837.8575942762197, 6]
+Blue Corner: Eddie Gordon	 Red Corner: Antonio Carlos Junior			 Winner: red
+
+
+Closest center to row : 
+[1020.8961892895337, 6]
+Blue Corner: Evan Dunham	 Red Corner: Ross Pearson			 Winner: blue
+
+
+Closest center to row : 
+[603.849961052735, 6]
+Blue Corner: Willie Gates	 Red Corner: Dustin Ortiz			 Winner: red
+
+
+Closest center to row : 
+[817.5485329702642, 6]
+Blue Corner: Nazareno Malegarie	 Red Corner: Joaquim Silva			 Winner: red
+
+
+Closest center to row : 
+[703.3854982994658, 6]
+Blue Corner: Ruslan Magomedov	 Red Corner: Shawn Jordan			 Winner: blue
+
+
+Closest center to row : 
+[887.5846541762145, 6]
+Blue Corner: Taylor Lapilus	 Red Corner: Erik Perez			 Winner: red
+
+
+Closest center to row : 
+[825.7265819522888, 6]
+Blue Corner: Rashid Magomedov	 Red Corner: Gilbert Burns			 Winner: blue
+
+
+Closest center to row : 
+[597.025139319169, 6]
+Blue Corner: Alistair Overeem	 Red Corner: Junior Dos Santos			 Winner: blue
+
+
+Closest center to row : 
+[800.1795217155048, 6]
+Blue Corner: Jim Alers	 Red Corner: Cole Miller			 Winner: no contest
+
+
+Closest center to row : 
+[934.1344048029578, 6]
+Blue Corner: Anton Zafir	 Red Corner: James Moontasri			 Winner: red
+
+
+Closest center to row : 
+[988.7704233703619, 6]
+Blue Corner: Alexandra Albu	 Red Corner: Izabela Badurek			 Winner: blue
+
+
+Closest center to row : 
+[727.3502538143807, 6]
+Blue Corner: Andrei Arlovski	 Red Corner: Stipe Miocic			 Winner: red
+
+
+Closest center to row : 
+[952.2318899324049, 6]
+Blue Corner: Alex Nicholson	 Red Corner: Misha Cirkunov			 Winner: red
+
+
+Closest center to row : 
+[695.7516041374568, 6]
+Blue Corner: Siyar Bahadurzada	 Red Corner: Brandon Thatch			 Winner: blue
+
+
+Closest center to row : 
+[748.881974355476, 6]
+Blue Corner: Jan Blachowicz	 Red Corner: Igor Pokrajac			 Winner: blue
+
+
+Closest center to row : 
+[594.1186284694394, 6]
+Blue Corner: Nate Marquardt	 Red Corner: Thiago Santos			 Winner: red
+
+
+Closest center to row : 
+[1010.8433869758034, 6]
+Blue Corner: Corey Anderson	 Red Corner: Mauricio Rua			 Winner: red
+
+
+Closest center to row : 
+[1096.4570939859782, 6]
+Blue Corner: Rashad Evans	 Red Corner: Glover Teixeira			 Winner: red
+
+
+Closest center to row : 
+[684.6070393791763, 6]
+Blue Corner: Raquel Pennington	 Red Corner: Bethe Correia			 Winner: blue
+
+
+Closest center to row : 
+[672.8011820025373, 6]
+Blue Corner: Darrell Horcher	 Red Corner: Khabib Nurmagomedov			 Winner: red
+
+
+Closest center to row : 
+[949.1881208137077, 6]
+Blue Corner: Eddie Wineland	 Red Corner: Frankie Saenz			 Winner: blue
+
+
+Closest center to row : 
+[677.1815971289263, 6]
+Blue Corner: Matthew Lopez	 Red Corner: Rani Yahya			 Winner: red
+
+
+Closest center to row : 
+[632.1543605758168, 6]
+Blue Corner: Damien Brown	 Red Corner: Cesar Arzamendia			 Winner: blue
+
+
+Closest center to row : 
+[858.2784842546869, 6]
+Blue Corner: Tyron Woodley	 Red Corner: Robbie Lawler			 Winner: blue
+
+
+Closest center to row : 
+[592.260336090226, 6]
+Blue Corner: Stephen Thompson	 Red Corner: Rory MacDonald			 Winner: blue
+
+
+Closest center to row : 
+[736.3019025845168, 6]
+Blue Corner: Jan Blachowicz	 Red Corner: Alexander Gustafsson			 Winner: red
+
+
+Closest center to row : 
+[892.1879780728104, 6]
+Blue Corner: Takeya Mizugaki	 Red Corner: Cody Garbrandt			 Winner: red
+
+
+Closest center to row : 
+[829.687768235472, 6]
+Blue Corner: Rony Jason	 Red Corner: Dennis Bermudez			 Winner: red
+
+
+Closest center to row : 
+[1080.0808375958643, 6]
+Blue Corner: Kyle Bochniak	 Red Corner: Enrique Barzola			 Winner: blue
+
+
+Closest center to row : 
+[711.0970508101686, 6]
+Blue Corner: Elizeu Zaleski dos Santos	 Red Corner: Keita Nakamura			 Winner: blue
+
+
+Closest center to row : 
+[1080.981602495819, 6]
+Blue Corner: Antonio Silva	 Red Corner: Roy Nelson			 Winner: red
+
+
+Closest center to row : 
+[867.5756161160878, 6]
+Blue Corner: Heather Jo Clark	 Red Corner: Alexa Grasso			 Winner: red
+
+
+Closest center to row : 
+[668.8715625278008, 6]
+Blue Corner: Max Griffin	 Red Corner: Erick Montano			 Winner: blue
+
+
+Closest center to row : 
+[1475.0654615320395, 6]
+Blue Corner: Gegard Mousasi	 Red Corner: Vitor Belfort			 Winner: blue
+
+
+Closest center to row : 
+[762.9596536245924, 6]
+Blue Corner: Mark Godbeer	 Red Corner: Justin Ledet			 Winner: red
+
+
+Closest center to row : 
+[463.1856042618321, 6]
+Blue Corner: Jack Marshman	 Red Corner: Magnus Cedenblad			 Winner: blue
+
+
+Closest center to row : 
+[890.1086684088704, 6]
+Blue Corner: Darren Stewart	 Red Corner: Francimar Barroso			 Winner: no contest
+
+
+Closest center to row : 
+[702.9796323188953, 6]
+Blue Corner: Emil Meek	 Red Corner: Jordan Mein			 Winner: blue
+
+
+Closest center to row : 
+[1034.1053361862334, 6]
+Blue Corner: Niko Price	 Red Corner: Brandon Thatch			 Winner: blue
+
+
+Closest center to row : 
+[731.3155185191815, 6]
+Blue Corner: James Vick	 Red Corner: Abel Trujillo			 Winner: blue
+
+
+Closest center to row : 
+[976.7070583643709, 6]
+Blue Corner: Volkan Oezdemir	 Red Corner: Ovince Saint Preux			 Winner: blue
+
+
+Closest center to row : 
+[3630.079127367859, 6]
+Blue Corner: Curtis Blaydes	 Red Corner: Adam Milstead			 Winner: no contest
+
+
+Closest center to row : 
+[791.8683383194577, 6]
+Blue Corner: Travis Browne	 Red Corner: Derrick Lewis			 Winner: red
+
+
+Closest center to row : 
+[1339.211928259903, 6]
+Blue Corner: David Teymur	 Red Corner: Lando Vannata			 Winner: blue
+
+
+Closest center to row : 
+[638.236296530339, 6]
+Blue Corner: Beneil Dariush	 Red Corner: Edson Barboza			 Winner: red
+
+
+Closest center to row : 
+[966.1996335753417, 6]
+Blue Corner: Joshua Burkman	 Red Corner: Michel Prazeres			 Winner: red
+
+
+Closest center to row : 
+[695.6135667446175, 6]
+Blue Corner: Davi Ramos	 Red Corner: Sergio Moraes			 Winner: red
+
+
+Closest center to row : 
+[920.5027797806495, 6]
+Blue Corner: Marcel Fortuna	 Red Corner: Anthony Hamilton			 Winner: blue
+
+
+Closest center to row : 
+[1165.6491168498956, 6]
+Blue Corner: Jan Blachowicz	 Red Corner: Patrick Cummins			 Winner: red
+
+
+Closest center to row : 
+[1083.3332821842312, 6]
+Blue Corner: Irene Aldana	 Red Corner: Katlyn Chookagian			 Winner: red
+
+
+Closest center to row : 
+[972.6740298932077, 6]
+Blue Corner: Cindy Dandois	 Red Corner: Alexis Davis			 Winner: red
+
+
+Closest center to row : 
+[1024.4213040358775, 6]
+Blue Corner: Joe Proctor	 Red Corner: Bryan Barberena			 Winner: red
+
+
+Closest center to row : 
+[917.7202805144696, 6]
+Blue Corner: Stevie Ray	 Red Corner: Joe Lauzon			 Winner: blue
+
+
+Closest center to row : 
+[784.4707848839896, 6]
+Blue Corner: Wilson Reis	 Red Corner: Demetrious Johnson			 Winner: red
+
+
+Closest center to row : 
+[622.0530694432746, 6]
+Blue Corner: Nate Marquardt	 Red Corner: Vitor Belfort			 Winner: red
+
+
+Closest center to row : 
+[1065.2133891498527, 6]
+Blue Corner: Nordine Taleb	 Red Corner: Oliver Enkamp			 Winner: blue
+
+
+Closest center to row : 
+[860.0913588922235, 6]
+Blue Corner: Ulka Sasaki	 Red Corner: Justin Scoggins			 Winner: blue
+
+
+Closest center to row : 
+[588.1629954488808, 6]
+Blue Corner: Galore Bofando	 Red Corner: Charlie Ward			 Winner: blue
+
+
+Closest center to row : 
+[1026.969121197301, 6]
+Blue Corner: Jarred Brooks	 Red Corner: Eric Shelton			 Winner: blue
+
+
+Closest center to row : 
+[857.1273662509889, 6]
+Blue Corner: Erik Koch	 Red Corner: Clay Guida			 Winner: red
+
+
+Closest center to row : 
+[785.9531929606433, 6]
+Blue Corner: Brandon Moreno	 Red Corner: Sergio Pettis			 Winner: red
+
+
+Closest center to row : 
+[839.8676988198928, 6]
+Blue Corner: Rani Yahya	 Red Corner: Henry Briones			 Winner: blue
+
+
+Closest center to row : 
+[1238.9520708037664, 6]
+Blue Corner: Desmond Green	 Red Corner: Rustam Khabilov			 Winner: red
+
+
+Closest center to row : 
+[518.079537090503, 6]
+Blue Corner: Bryan Barberena	 Red Corner: Leon Edwards			 Winner: red
+
+
+Closest center to row : 
+[996.9320699831052, 6]
+Blue Corner: Brian Kelleher	 Red Corner: Damian Stasiak			 Winner: blue
+
+
+Closest center to row : 
+[1001.7314172272556, 6]
+Blue Corner: Nasrat Haqparast	 Red Corner: Marcin Held			 Winner: red
+
+
+Closest center to row : 
+[594.6551995315397, 6]
+Blue Corner: Yushin Okami	 Red Corner: Ovince Saint Preux			 Winner: red
+
+
+Closest center to row : 
+[593.2085876655402, 6]
+Blue Corner: Henrique da Silva	 Red Corner: Gokhan Saki			 Winner: red
+
+
+Closest center to row : 
+[869.9723764421033, 6]
+Blue Corner: Gilbert Burns	 Red Corner: Jason Saggo			 Winner: blue
+
+
+Closest center to row : 
+[775.9591438739025, 6]
+Blue Corner: Brandon Davis	 Red Corner: Austin Arnett			 Winner: blue
+
+
+Closest center to row : 
+[1034.4531174974147, 6]
+Blue Corner: JP Buys	 Red Corner: Joby Sanchez			 Winner: red
+
+
+Closest center to row : 
+[644.1625721017733, 6]
+Blue Corner: Adam Antolin	 Red Corner: Casey Kenney			 Winner: blue
+
+
+Closest center to row : 
+[737.548126322277, 6]
+Blue Corner: Magomed Bibulatov	 Red Corner: John Moraga			 Winner: red
+
+
+Closest center to row : 
+[1118.9813754165068, 6]
+Blue Corner: Teruto Ishihara	 Red Corner: Gray Maynard			 Winner: red
+
+
+Closest center to row : 
+[1090.998352970344, 6]
+Blue Corner: Ricardo Ramos	 Red Corner: Aiemann Zahabi			 Winner: blue
+
+
+Closest center to row : 
+[985.9240138199447, 6]
+Blue Corner: Curtis Blaydes	 Red Corner: Aleksei Oleinik			 Winner: blue
+
+
+Closest center to row : 
+[666.6442352170087, 6]
+Blue Corner: Joe Duffy	 Red Corner: James Vick			 Winner: red
+
+
+Closest center to row : 
+[749.8553596982616, 6]
+Blue Corner: Rob Font	 Red Corner: Pedro Munhoz			 Winner: red
+
+
+Closest center to row : 
+[860.6723089760958, 6]
+Blue Corner: Galore Bofando	 Red Corner: Chad Laprise			 Winner: red
+
+
+Closest center to row : 
+[1595.808515742303, 6]
+Blue Corner: Roxanne Modafferi	 Red Corner: Nicco Montano			 Winner: red
+
+
+Closest center to row : 
+[968.5157866562629, 6]
+Blue Corner: Melinda Fabian	 Red Corner: DeAnna Bennett			 Winner: draw
+
+
+Closest center to row : 
+[851.1199130607342, 6]
+Blue Corner: Alex Perez	 Red Corner: Carls John De Tomas			 Winner: blue
+
+
+Closest center to row : 
+[898.5726715941594, 6]
+Blue Corner: Andre Soukhamthath	 Red Corner: Luke Sanders			 Winner: blue
+
+
+Closest center to row : 
+[632.3752875738181, 6]
+Blue Corner: JJ Aldrich	 Red Corner: Danielle Taylor			 Winner: blue
+
+
+Closest center to row : 
+[1494.9329033385395, 6]
+Blue Corner: Brandon Davis	 Red Corner: Kyle Bochniak			 Winner: red
+
+
+Closest center to row : 
+[905.8325540926706, 6]
+Blue Corner: Enrique Barzola	 Red Corner: Matt Bessette			 Winner: blue
+
+
+Closest center to row : 
+[1298.8921580219271, 6]
+Blue Corner: George Sullivan	 Red Corner: Niko Price			 Winner: red
+
+
+Closest center to row : 
+[859.2765816524127, 6]
+Blue Corner: Jeremy Kennedy	 Red Corner: Alexander Volkanovski			 Winner: red
+
+
+Closest center to row : 
+[828.1071232421045, 6]
+Blue Corner: Cody Stamann	 Red Corner: Bryan Caraway			 Winner: blue
+
+
+Closest center to row : 
+[503.48469248458554, 6]
+Blue Corner: Adam Milstead	 Red Corner: Jordan Johnson			 Winner: red
+
+
+Closest center to row : 
+[456.76335309049006, 6]
+Blue Corner: Kyle Bochniak	 Red Corner: Zabit Magomedsharipov			 Winner: red
+
+
+Closest center to row : 
+[514.7780749334413, 6]
+Blue Corner: Justin Gaethje	 Red Corner: Dustin Poirier			 Winner: red
+
+
+Closest center to row : 
+[814.9901503486094, 6]
+Blue Corner: Khalil Rountree Jr.	 Red Corner: Gokhan Saki			 Winner: blue
+
+
+Closest center to row : 
+[633.0833004000203, 6]
+Blue Corner: Derrick Lewis	 Red Corner: Francis Ngannou			 Winner: blue
+
+
+Closest center to row : 
+[1372.8915450098389, 6]
+Blue Corner: Tai Tuivasa	 Red Corner: Andrei Arlovski			 Winner: blue
+
+
+Closest center to row : 
+[1364.7374373595815, 6]
+Blue Corner: Nick Hein	 Red Corner: Davi Ramos			 Winner: red
+
+
+Closest center to row : 
+[894.0465903494353, 6]
+Blue Corner: Sam Alvey	 Red Corner: Gian Villante			 Winner: blue
+
+
+Closest center to row : 
+[1522.1303834277421, 6]
+Blue Corner: Cyril Asker	 Red Corner: Tai Tuivasa			 Winner: red
+
+
+Closest center to row : 
+[1177.2049217843526, 6]
+Blue Corner: Alexandre Pantoja	 Red Corner: Brandon Moreno			 Winner: blue
+
+
+Closest center to row : 
+[964.9508858269369, 6]
+Blue Corner: Craig White	 Red Corner: Neil Magny			 Winner: red
+
+
+Closest center to row : 
+[1016.1285596719097, 6]
+Blue Corner: Tyson Pedro	 Red Corner: Ovince Saint Preux			 Winner: red
+
+
+Closest center to row : 
+[1050.462698627507, 6]
+Blue Corner: Jodie Esquibel	 Red Corner: Jessica Aguilar			 Winner: red
+
+
+Closest center to row : 
+[730.537656820416, 6]
+Blue Corner: Alex Morono	 Red Corner: Jordan Mein			 Winner: red
+
+
+Closest center to row : 
+[893.6273295785024, 6]
+Blue Corner: Tecia Torres	 Red Corner: Joanna Jedrzejczyk			 Winner: red
+
+
+Closest center to row : 
+[916.6020487926648, 6]
+Blue Corner: Marcin Prachnio	 Red Corner: Magomed Ankalaev			 Winner: red
+
+
+Closest center to row : 
+[799.2886526138557, 6]
+Blue Corner: Kajan Johnson	 Red Corner: Rustam Khabilov			 Winner: red
+
+
+Closest center to row : 
+[1089.73741675135, 6]
+Blue Corner: Alex Chambers	 Red Corner: Livinha Souza			 Winner: red
+
+
+Closest center to row : 
+[844.6550919371658, 6]
+Blue Corner: Tim Williams	 Red Corner: Eryk Anders			 Winner: red
+
+
+Closest center to row : 
+[833.1625242252383, 6]
+Blue Corner: Ricky Palacios	 Red Corner: Toby Misech			 Winner: blue
+
+
+Closest center to row : 
+[871.5072223007503, 6]
+Blue Corner: Rilley Dutro	 Red Corner: Jordan Espinosa			 Winner: red
+
+
+Closest center to row : 
+[804.0017490611035, 6]
+Blue Corner: Josh Appelt	 Red Corner: Jeff Hughes			 Winner: red
+
+
+Closest center to row : 
+[915.2803232683666, 6]
+Blue Corner: Karolina Kowalkiewicz	 Red Corner: Jessica Andrade			 Winner: red
